@@ -1,5 +1,5 @@
-#ifndef _PlanetXSEGMENT_H_
-#define _PlanetXSEGMENT_H_
+#ifndef _PLANETXSEGMENT_H_
+#define _PLANETXSEGMENT_H_
 
 #include <TM1637Display.h>
 #include "RJPins.h"
